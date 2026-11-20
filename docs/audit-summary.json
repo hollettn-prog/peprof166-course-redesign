@@ -1,0 +1,14 @@
+{
+  "course": "PEPROF-166",
+  "pages": 50,
+  "review_pages": 50,
+  "interactives": 0,
+  "placeholder_pages": [],
+  "not_verified": [
+    "Canvas deployment",
+    "SCORM runtime and grade reporting",
+    "external links",
+    "instructor approval",
+    "missing source pages"
+  ]
+}
