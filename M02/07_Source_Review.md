@@ -1,0 +1,11 @@
+# Module 2: Source reconciliation and publication gate
+
+**Exported title:** Exploring the Teaching Profession.
+
+**Exported introduction excerpt (for comparison):** M2 Introduction, Resources, To-Dos PEPROF 166 • MODULE 2 Exploring the Teaching Profession Introduction, Resources & To-Dos Essential Question What does it take to become a teacher in Wisconsin, and what responsibilities come with the job? Why This Matters You've probably seen teachers lead lessons, explain activities, and manage classrooms. But there's a lot more to teaching that students don't always see. Teachers plan, work with families and colleagues, keep students safe, and make decisions throughout the school day. They also complete college coursework, field experiences, and licensing requirements before entering the profession. This module gives you a closer look at those responsibilities. You'll also interview a practicing teacher to hear what the job is actually like. Module Introduction Watch my short introduction to this module. I'll explain what we'll explore about the teaching profession and how to prepare for your teacher interview. [INSERT CANVAS STUDIO VIDEO PLAYER HERE] A captioned video and transcript will be provided. By the End of This Module, You Should Be Able To... Describe responsibilities teachers have beyond leading lessons. Identify the basic steps toward becoming a licensed teacher in Wisconsin. Explain one way the teaching profession has changed or why teachers advocate for their programs. Use a teacher interview to learn more about the profession 
+
+**Source status:** Introduction exists in `wiki_content/m2-introduction-resources-to-dos.html`; learning-materials and assignment pages may contain unfinished template placeholders. This package supplies proposed freshman-friendly instructional drafts, not verified replacements for original assignments.
+
+**Before publication:** Confirm module title, actual learning outcomes, reading/media links, existing assignment/discussion type, due dates, points, rubric, quiz settings, and video. Preserve existing submissions and course settings. Check whether Module 2 is in the intended active sequence; the export includes unpublished redesign material.
+
+**Design:** UW–Whitewater Digital Learning Design 2.0 purple gradient; no gold. If Canvas strips gradient, use solid #4F2D7F. Test after pasting.

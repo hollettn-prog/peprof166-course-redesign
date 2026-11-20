@@ -1,0 +1,11 @@
+# Module 3: Source reconciliation and publication gate
+
+**Exported title:** Notice Effective Teaching.
+
+**Exported introduction excerpt (for comparison):** M3 Introduction, Resources, To-Dos Notice Effective Teaching Learn to recognize the purposeful decisions that help every child learn, participate, and grow. Effective teaching is more than presenting an activity- it involves observing learners, responding to their needs, and making thoughtful adjustments. In this module, you will examine the routines, interactions, instructional choices, and evidence that distinguish purposeful physical education. Introduction (~{ number } minutes) {INSERT INTRODUCTION VIDEO} {Transcript} 🎯 Objectives By the end of this lesson, you should be able to do the following: Explain characteristics of effective PE instruction. Describe motivational strategies. Develop basic behavior management techniques. Learning Resources Mini Lecture Watch the M1 Mini-Lecture: {Title} Interactive Learning Complete the Module 1 reading and question checks in the interactive lesson. Suggested Resources Explore the {insert link} website. ✅ To-Dos 1. Read through Chapter 4, 5, and 6 2. Physical Education Teacher/ Class Observation Assignment ➡️ Your Next Stop {insert small reminder} Next: { Insert next page } EXAMPLE Physical Education in the Elementary School Discover how elementary physical education builds skills, confidence, and lifelong movement. Elementary physical education is about much more than keeping children active- it is where they begin learning how to mo
+
+**Source status:** Introduction exists in `wiki_content/m3-introduction-resources-to-dos.html`; learning-materials and assignment pages may contain unfinished template placeholders. This package supplies proposed freshman-friendly instructional drafts, not verified replacements for original assignments.
+
+**Before publication:** Confirm module title, actual learning outcomes, reading/media links, existing assignment/discussion type, due dates, points, rubric, quiz settings, and video. Preserve existing submissions and course settings. Check whether Module 3 is in the intended active sequence; the export includes unpublished redesign material.
+
+**Design:** UW–Whitewater Digital Learning Design 2.0 purple gradient; no gold. If Canvas strips gradient, use solid #4F2D7F. Test after pasting.

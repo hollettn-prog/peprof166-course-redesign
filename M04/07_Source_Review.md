@@ -1,0 +1,11 @@
+# Module 4: Source reconciliation and publication gate
+
+**Exported title:** Plan for Learning and Evidence.
+
+**Exported introduction excerpt (for comparison):** M4 Introduction, Resources, To-Dos Plan for Learning and Evidence Turn standards and big ideas into clear objectives, engaging experiences, and meaningful evidence of learning. Strong lessons begin with a clear picture of what students should learn. In this module, you will plan from outcomes, design purposeful learning activities, and determine how students can demonstrate progress through performance, understanding, decision-making, and reflection. Introduction (~{ number } minutes) {INSERT INTRODUCTION VIDEO} {Transcript} 🎯 Objectives By the end of this lesson, you should be able to do the following: Describe major historical influences on PE. Explain the educational value of PE. Identify current national standards. Learning Resources Mini Lecture Watch the M1 Mini-Lecture: {Title} Interactive Learning Complete the Module 1 reading and question checks in the interactive lesson. Suggested Resources Explore the {insert link} website. ✅ To-Dos 1. Complete the {insert assignment} . ➡️ Your Next Stop {insert small reminder} Next: { Insert next page } EXAMPLE Physical Education in the Elementary School Discover how elementary physical education builds skills, confidence, and lifelong movement. Elementary physical education is about much more than keeping children active- it is where they begin learning how to move, cooperate, take risks, and see themselves as capable. The experien
+
+**Source status:** Introduction exists in `wiki_content/m4-introduction-resources-to-dos.html`; learning-materials and assignment pages may contain unfinished template placeholders. This package supplies proposed freshman-friendly instructional drafts, not verified replacements for original assignments.
+
+**Before publication:** Confirm module title, actual learning outcomes, reading/media links, existing assignment/discussion type, due dates, points, rubric, quiz settings, and video. Preserve existing submissions and course settings. Check whether Module 4 is in the intended active sequence; the export includes unpublished redesign material.
+
+**Design:** UW–Whitewater Digital Learning Design 2.0 purple gradient; no gold. If Canvas strips gradient, use solid #4F2D7F. Test after pasting.
