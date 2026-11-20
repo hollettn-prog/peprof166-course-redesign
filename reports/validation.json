@@ -1,0 +1,237 @@
+{
+  "course": "PEPROF 166",
+  "modules": 11,
+  "pages": 25,
+  "errors": 0,
+  "review_findings": 23,
+  "issues": [
+    {
+      "severity": "review",
+      "file": "canvas/pages/start-here/01-welcome.html",
+      "finding": "Unresolved field: [INSTRUCTOR: Embed your course introduction video in Canvas and provide captions or a transcript.]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/start-here/02-meet-your-instructor.html",
+      "finding": "Unresolved field: [INSTRUCTOR: Embed your own introduction video and provide captions or a transcript. Remove any example instructor profiles.]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/start-here/02-meet-your-instructor.html",
+      "finding": "Unresolved field: [INSTRUCTOR: State your preferred contact method and realistic response times. Keep this consistent with your syllabus.]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/start-here/03-syllabus-and-calendar.html",
+      "finding": "Unresolved field: [INSTRUCTOR: Link the current PEPROF 166 syllabus in Canvas. Confirm the link is accessible to students.]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/start-here/03-syllabus-and-calendar.html",
+      "finding": "Unresolved field: [INSTRUCTOR: Link the current course calendar or Canvas schedule. Confirm deadlines, breaks, and required activities.]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/start-here/04-getting-help.html",
+      "finding": "Unresolved field: [INSTRUCTOR: Add the current library link.]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/start-here/04-getting-help.html",
+      "finding": "Unresolved field: [INSTRUCTOR: Add the current official link and course-specific contact process.]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/start-here/04-getting-help.html",
+      "finding": "Unresolved field: [INSTRUCTOR: Insert and verify current institutional support links.]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/start-here/05-university-policies.html",
+      "finding": "Unresolved field: [INSTRUCTOR: Link the current syllabus.]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/start-here/05-university-policies.html",
+      "finding": "Unresolved field: [INSTRUCTOR: Link the official policy.]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/start-here/05-university-policies.html",
+      "finding": "Unresolved field: [INSTRUCTOR: Link the official resources.]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-02/01-introduction-resources-todos.html",
+      "finding": "Unresolved field: [INSERT CANVAS STUDIO VIDEO PLAYER HERE]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-02/02-learning-materials.html",
+      "finding": "Verify table headers and mobile reflow"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-02/02-learning-materials.html",
+      "finding": "Unresolved field: [INSERT MINI-LECTURE MEDIA PLAYER HERE]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-02/02-learning-materials.html",
+      "finding": "Unresolved field: [INSERT TRANSCRIPT LINK OR CAPTION INFORMATION]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-03/01-introduction-resources-todos.html",
+      "finding": "Media or assessment preparation remains"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-04/01-introduction-resources-todos.html",
+      "finding": "Media or assessment preparation remains"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-05/01-introduction-resources-todos.html",
+      "finding": "Media or assessment preparation remains"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-06/01-introduction-resources-todos.html",
+      "finding": "Media or assessment preparation remains"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-07/01-introduction-resources-todos.html",
+      "finding": "Media or assessment preparation remains"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-08/01-introduction-resources-todos.html",
+      "finding": "Media or assessment preparation remains"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-09/01-introduction-resources-todos.html",
+      "finding": "Media or assessment preparation remains"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-10/01-introduction-resources-todos.html",
+      "finding": "Media or assessment preparation remains"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://uwwtw.instructure.com/courses/883236/modules",
+      "pages": [
+        "canvas/pages/start-here/05-university-policies.html",
+        "canvas/pages/module-01/02-m1-learning-materials.html",
+        "canvas/pages/module-02/02-learning-materials.html",
+        "canvas/pages/module-03/02-learning-materials.html",
+        "canvas/pages/module-04/02-learning-materials.html",
+        "canvas/pages/module-05/02-learning-materials.html",
+        "canvas/pages/module-06/02-learning-materials.html",
+        "canvas/pages/module-07/02-learning-materials.html",
+        "canvas/pages/module-08/02-learning-materials.html",
+        "canvas/pages/module-09/02-learning-materials.html",
+        "canvas/pages/module-10/02-learning-materials.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://dpi.wi.gov/licensing",
+      "pages": [
+        "canvas/pages/module-02/01-introduction-resources-todos.html",
+        "canvas/pages/module-02/02-learning-materials.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://www.uww.edu/coeps/advising-and-licensure",
+      "pages": [
+        "canvas/pages/module-02/01-introduction-resources-todos.html",
+        "canvas/pages/module-02/02-learning-materials.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://www.shapeamerica.org/",
+      "pages": [
+        "canvas/pages/module-02/01-introduction-resources-todos.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://www.uww.edu/coeps/academics/physical-education",
+      "pages": [
+        "canvas/pages/module-02/01-introduction-resources-todos.html"
+      ],
+      "status": "not checked"
+    }
+  ],
+  "native_links": [
+    {
+      "file": "canvas/pages/start-here/05-university-policies.html",
+      "url": "https://uwwtw.instructure.com/courses/883236/modules",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-01/02-m1-learning-materials.html",
+      "url": "https://uwwtw.instructure.com/courses/883236/modules",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-02/02-learning-materials.html",
+      "url": "https://uwwtw.instructure.com/courses/883236/modules",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-03/02-learning-materials.html",
+      "url": "https://uwwtw.instructure.com/courses/883236/modules",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-04/02-learning-materials.html",
+      "url": "https://uwwtw.instructure.com/courses/883236/modules",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-05/02-learning-materials.html",
+      "url": "https://uwwtw.instructure.com/courses/883236/modules",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-06/02-learning-materials.html",
+      "url": "https://uwwtw.instructure.com/courses/883236/modules",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-07/02-learning-materials.html",
+      "url": "https://uwwtw.instructure.com/courses/883236/modules",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-08/02-learning-materials.html",
+      "url": "https://uwwtw.instructure.com/courses/883236/modules",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-09/02-learning-materials.html",
+      "url": "https://uwwtw.instructure.com/courses/883236/modules",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-10/02-learning-materials.html",
+      "url": "https://uwwtw.instructure.com/courses/883236/modules",
+      "status": "Requires target-course rebind or verified existing native item"
+    }
+  ],
+  "import_verified": false,
+  "package": {
+    "file": "PEPROF-166-pages-review.imscc",
+    "sha256": "1c6a357f2f579c670a2f2fd3af06f179d1075dc2c14fea4f86761ce87c7ca661",
+    "zip_xml_references_verified": true,
+    "canvas_import_verified": false
+  }
+}

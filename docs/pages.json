@@ -1,17 +1,178 @@
 [
   {
-    "path": "review-pages/M01/01_M1_Introduction_Resources_ToDos.html",
-    "title": "01 M1 Introduction Resources Todos",
-    "group": "M01",
+    "path": "review-pages/Start_Here/01_Welcome.html",
+    "title": "Welcome to PEPROF 166",
+    "group": "⭐ Course Information (Start Here)",
     "kind": "Canvas HTML",
-    "size": 2585
+    "size": 2568
+  },
+  {
+    "path": "review-pages/Start_Here/02_Meet_Your_Instructor.html",
+    "title": "Meet Your Instructor: Anneke Legge",
+    "group": "⭐ Course Information (Start Here)",
+    "kind": "Canvas HTML",
+    "size": 2791
+  },
+  {
+    "path": "review-pages/Start_Here/03_Syllabus_and_Calendar.html",
+    "title": "Syllabus and Course Schedule",
+    "group": "⭐ Course Information (Start Here)",
+    "kind": "Canvas HTML",
+    "size": 2456
+  },
+  {
+    "path": "review-pages/Start_Here/04_Getting_Help.html",
+    "title": "Getting Help: Canvas, Tech, Accommodations, Library Services",
+    "group": "⭐ Course Information (Start Here)",
+    "kind": "Canvas HTML",
+    "size": 2984
+  },
+  {
+    "path": "review-pages/Start_Here/05_University_Policies.html",
+    "title": "University Policies",
+    "group": "⭐ Course Information (Start Here)",
+    "kind": "Canvas HTML",
+    "size": 2812
+  },
+  {
+    "path": "review-pages/M01/01_M1_Introduction_Resources_ToDos.html",
+    "title": "M1 Introduction, Resources, To-Dos (insert video)",
+    "group": "Module 1: Purpose, History, and Professional Identity",
+    "kind": "Canvas HTML",
+    "size": 3695
   },
   {
     "path": "review-pages/M01/02_M1_Learning_Materials.html",
-    "title": "02 M1 Learning Materials",
-    "group": "M01",
+    "title": "M1 Learning Materials (insert lecture)",
+    "group": "Module 1: Purpose, History, and Professional Identity",
     "kind": "Canvas HTML",
-    "size": 2803
+    "size": 7271
+  },
+  {
+    "path": "review-pages/M02/01_Introduction_Resources_ToDos.html",
+    "title": "M2 Introduction, Resources, To-Dos",
+    "group": "Module 2: The Profession in Practice",
+    "kind": "Canvas HTML",
+    "size": 7059
+  },
+  {
+    "path": "review-pages/M02/02_Learning_Materials.html",
+    "title": "M2 Learning Materials",
+    "group": "Module 2: The Profession in Practice",
+    "kind": "Canvas HTML",
+    "size": 12673
+  },
+  {
+    "path": "review-pages/M03/01_Introduction_Resources_ToDos.html",
+    "title": "M3 Introduction, Resources, To-Dos",
+    "group": "Module 3: Notice Effective Teaching",
+    "kind": "Canvas HTML",
+    "size": 3121
+  },
+  {
+    "path": "review-pages/M03/02_Learning_Materials.html",
+    "title": "M3 Learning Materials",
+    "group": "Module 3: Notice Effective Teaching",
+    "kind": "Canvas HTML",
+    "size": 3129
+  },
+  {
+    "path": "review-pages/M04/01_Introduction_Resources_ToDos.html",
+    "title": "M4 Introduction, Resources, To-Dos",
+    "group": "Module 4: Plan for Learning and Evidence",
+    "kind": "Canvas HTML",
+    "size": 3146
+  },
+  {
+    "path": "review-pages/M04/02_Learning_Materials.html",
+    "title": "M4 Learning Materials",
+    "group": "Module 4: Plan for Learning and Evidence",
+    "kind": "Canvas HTML",
+    "size": 3084
+  },
+  {
+    "path": "review-pages/M05/01_Introduction_Resources_ToDos.html",
+    "title": "M5 Introduction, Resources, To-Dos",
+    "group": "Module 5: Sequence Learning Across a Year",
+    "kind": "Canvas HTML",
+    "size": 3121
+  },
+  {
+    "path": "review-pages/M05/02_Learning_Materials.html",
+    "title": "M5 Learning Materials",
+    "group": "Module 5: Sequence Learning Across a Year",
+    "kind": "Canvas HTML",
+    "size": 3094
+  },
+  {
+    "path": "review-pages/M06/01_Introduction_Resources_ToDos.html",
+    "title": "M6 Introduction, Resources, To-Dos",
+    "group": "Module 6: Design for Access in Adapted and Inclusive PE",
+    "kind": "Canvas HTML",
+    "size": 3149
+  },
+  {
+    "path": "review-pages/M06/02_Learning_Materials.html",
+    "title": "M6 Learning Materials",
+    "group": "Module 6: Design for Access in Adapted and Inclusive PE",
+    "kind": "Canvas HTML",
+    "size": 3080
+  },
+  {
+    "path": "review-pages/M07/01_Introduction_Resources_ToDos.html",
+    "title": "M7 Introduction, Resources, To-Dos",
+    "group": "Module 7: Foundations of Effective School Health Education",
+    "kind": "Canvas HTML",
+    "size": 3157
+  },
+  {
+    "path": "review-pages/M07/02_Learning_Materials.html",
+    "title": "M7 Learning Materials",
+    "group": "Module 7: Foundations of Effective School Health Education",
+    "kind": "Canvas HTML",
+    "size": 3098
+  },
+  {
+    "path": "review-pages/M08/01_Introduction_Resources_ToDos.html",
+    "title": "M8 Introduction, Resources, To-Dos",
+    "group": "Module 8: Turn Health Standards into Skill Practice",
+    "kind": "Canvas HTML",
+    "size": 3129
+  },
+  {
+    "path": "review-pages/M08/02_Learning_Materials.html",
+    "title": "M8 Learning Materials",
+    "group": "Module 8: Turn Health Standards into Skill Practice",
+    "kind": "Canvas HTML",
+    "size": 3085
+  },
+  {
+    "path": "review-pages/M09/01_Introduction_Resources_ToDos.html",
+    "title": "M9 Introduction, Resources, To-Dos",
+    "group": "Module 9: Build a Positive and Connected Learning Environment",
+    "kind": "Canvas HTML",
+    "size": 3147
+  },
+  {
+    "path": "review-pages/M09/02_Learning_Materials.html",
+    "title": "M9 Learning Materials",
+    "group": "Module 9: Build a Positive and Connected Learning Environment",
+    "kind": "Canvas HTML",
+    "size": 3092
+  },
+  {
+    "path": "canvas-pages/module-10/01-introduction-resources-todos.html",
+    "title": "M10 Introduction, Resources, To-Dos",
+    "group": "Module 10: Synthesize Your Practice and Plan Your Next Step",
+    "kind": "Canvas HTML",
+    "size": 3167
+  },
+  {
+    "path": "canvas-pages/module-10/02-learning-materials.html",
+    "title": "M10 Learning Materials",
+    "group": "Module 10: Synthesize Your Practice and Plan Your Next Step",
+    "kind": "Canvas HTML",
+    "size": 3133
   },
   {
     "path": "review-pages/M01/03_M1_Discussion_Introduce_Yourself.html",
@@ -35,20 +196,6 @@
     "size": 1757
   },
   {
-    "path": "review-pages/M02/01_Introduction_Resources_ToDos.html",
-    "title": "01 Introduction Resources Todos",
-    "group": "M02",
-    "kind": "Canvas HTML",
-    "size": 2162
-  },
-  {
-    "path": "review-pages/M02/02_Learning_Materials.html",
-    "title": "02 Learning Materials",
-    "group": "M02",
-    "kind": "Canvas HTML",
-    "size": 2148
-  },
-  {
     "path": "review-pages/M02/03_Knowledge_Check_Stimulus.html",
     "title": "03 Knowledge Check Stimulus",
     "group": "M02",
@@ -68,20 +215,6 @@
     "group": "M02",
     "kind": "Canvas HTML",
     "size": 1529
-  },
-  {
-    "path": "review-pages/M03/01_Introduction_Resources_ToDos.html",
-    "title": "01 Introduction Resources Todos",
-    "group": "M03",
-    "kind": "Canvas HTML",
-    "size": 2136
-  },
-  {
-    "path": "review-pages/M03/02_Learning_Materials.html",
-    "title": "02 Learning Materials",
-    "group": "M03",
-    "kind": "Canvas HTML",
-    "size": 2172
   },
   {
     "path": "review-pages/M03/03_Knowledge_Check_Stimulus.html",
@@ -105,20 +238,6 @@
     "size": 1521
   },
   {
-    "path": "review-pages/M04/01_Introduction_Resources_ToDos.html",
-    "title": "01 Introduction Resources Todos",
-    "group": "M04",
-    "kind": "Canvas HTML",
-    "size": 2161
-  },
-  {
-    "path": "review-pages/M04/02_Learning_Materials.html",
-    "title": "02 Learning Materials",
-    "group": "M04",
-    "kind": "Canvas HTML",
-    "size": 2127
-  },
-  {
     "path": "review-pages/M04/03_Knowledge_Check_Stimulus.html",
     "title": "03 Knowledge Check Stimulus",
     "group": "M04",
@@ -138,20 +257,6 @@
     "group": "M04",
     "kind": "Canvas HTML",
     "size": 1526
-  },
-  {
-    "path": "review-pages/M05/01_Introduction_Resources_ToDos.html",
-    "title": "01 Introduction Resources Todos",
-    "group": "M05",
-    "kind": "Canvas HTML",
-    "size": 2136
-  },
-  {
-    "path": "review-pages/M05/02_Learning_Materials.html",
-    "title": "02 Learning Materials",
-    "group": "M05",
-    "kind": "Canvas HTML",
-    "size": 2137
   },
   {
     "path": "review-pages/M05/03_Knowledge_Check_Stimulus.html",
@@ -175,20 +280,6 @@
     "size": 1527
   },
   {
-    "path": "review-pages/M06/01_Introduction_Resources_ToDos.html",
-    "title": "01 Introduction Resources Todos",
-    "group": "M06",
-    "kind": "Canvas HTML",
-    "size": 2164
-  },
-  {
-    "path": "review-pages/M06/02_Learning_Materials.html",
-    "title": "02 Learning Materials",
-    "group": "M06",
-    "kind": "Canvas HTML",
-    "size": 2123
-  },
-  {
     "path": "review-pages/M06/03_Knowledge_Check_Stimulus.html",
     "title": "03 Knowledge Check Stimulus",
     "group": "M06",
@@ -208,20 +299,6 @@
     "group": "M06",
     "kind": "Canvas HTML",
     "size": 1557
-  },
-  {
-    "path": "review-pages/M07/01_Introduction_Resources_ToDos.html",
-    "title": "01 Introduction Resources Todos",
-    "group": "M07",
-    "kind": "Canvas HTML",
-    "size": 2172
-  },
-  {
-    "path": "review-pages/M07/02_Learning_Materials.html",
-    "title": "02 Learning Materials",
-    "group": "M07",
-    "kind": "Canvas HTML",
-    "size": 2141
   },
   {
     "path": "review-pages/M07/03_Knowledge_Check_Stimulus.html",
@@ -245,20 +322,6 @@
     "size": 1544
   },
   {
-    "path": "review-pages/M08/01_Introduction_Resources_ToDos.html",
-    "title": "01 Introduction Resources Todos",
-    "group": "M08",
-    "kind": "Canvas HTML",
-    "size": 2144
-  },
-  {
-    "path": "review-pages/M08/02_Learning_Materials.html",
-    "title": "02 Learning Materials",
-    "group": "M08",
-    "kind": "Canvas HTML",
-    "size": 2128
-  },
-  {
     "path": "review-pages/M08/03_Knowledge_Check_Stimulus.html",
     "title": "03 Knowledge Check Stimulus",
     "group": "M08",
@@ -280,20 +343,6 @@
     "size": 1537
   },
   {
-    "path": "review-pages/M09/01_Introduction_Resources_ToDos.html",
-    "title": "01 Introduction Resources Todos",
-    "group": "M09",
-    "kind": "Canvas HTML",
-    "size": 2162
-  },
-  {
-    "path": "review-pages/M09/02_Learning_Materials.html",
-    "title": "02 Learning Materials",
-    "group": "M09",
-    "kind": "Canvas HTML",
-    "size": 2135
-  },
-  {
     "path": "review-pages/M09/03_Knowledge_Check_Stimulus.html",
     "title": "03 Knowledge Check Stimulus",
     "group": "M09",
@@ -313,40 +362,5 @@
     "group": "M09",
     "kind": "Canvas HTML",
     "size": 1547
-  },
-  {
-    "path": "review-pages/Start_Here/01_Welcome.html",
-    "title": "01 Welcome",
-    "group": "Start_Here",
-    "kind": "Canvas HTML",
-    "size": 1585
-  },
-  {
-    "path": "review-pages/Start_Here/02_Meet_Your_Instructor.html",
-    "title": "02 Meet Your Instructor",
-    "group": "Start_Here",
-    "kind": "Canvas HTML",
-    "size": 1778
-  },
-  {
-    "path": "review-pages/Start_Here/03_Syllabus_and_Calendar.html",
-    "title": "03 Syllabus And Calendar",
-    "group": "Start_Here",
-    "kind": "Canvas HTML",
-    "size": 1451
-  },
-  {
-    "path": "review-pages/Start_Here/04_Getting_Help.html",
-    "title": "04 Getting Help",
-    "group": "Start_Here",
-    "kind": "Canvas HTML",
-    "size": 1977
-  },
-  {
-    "path": "review-pages/Start_Here/05_University_Policies.html",
-    "title": "05 University Policies",
-    "group": "Start_Here",
-    "kind": "Canvas HTML",
-    "size": 1857
   }
 ]

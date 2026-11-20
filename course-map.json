@@ -1,0 +1,336 @@
+{
+  "course": "PEPROF 166",
+  "repository": "peprof166-course-redesign",
+  "canvas_target": "https://uwwtw.instructure.com/courses/883236",
+  "package_scope": "Instructional page drafts only; native graded items and alternatives require faculty reconciliation",
+  "modules": [
+    {
+      "id": "start-here",
+      "title": "⭐ Course Information (Start Here)",
+      "items": [
+        {
+          "id": "start-here/01-welcome",
+          "title": "Welcome to PEPROF 166",
+          "file": "canvas/pages/start-here/01-welcome.html",
+          "source": "Start_Here/01_Welcome.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/welcome-to-peprof-166",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "start-here/02-meet-your-instructor",
+          "title": "Meet Your Instructor: Anneke Legge",
+          "file": "canvas/pages/start-here/02-meet-your-instructor.html",
+          "source": "Start_Here/02_Meet_Your_Instructor.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/meet-your-instructor-anneke-legge",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "start-here/03-syllabus-and-calendar",
+          "title": "Syllabus and Course Schedule",
+          "file": "canvas/pages/start-here/03-syllabus-and-calendar.html",
+          "source": "Start_Here/03_Syllabus_and_Calendar.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/syllabus-and-course-schedule",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "start-here/04-getting-help",
+          "title": "Getting Help: Canvas, Tech, Accommodations, Library Services",
+          "file": "canvas/pages/start-here/04-getting-help.html",
+          "source": "Start_Here/04_Getting_Help.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/getting-help-canvas-tech-accommodations-library-services",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "start-here/05-university-policies",
+          "title": "University Policies",
+          "file": "canvas/pages/start-here/05-university-policies.html",
+          "source": "Start_Here/05_University_Policies.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/university-policies",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "module-01",
+      "title": "Module 1: Purpose, History, and Professional Identity",
+      "items": [
+        {
+          "id": "module-01/01-m1-introduction-resources-todos",
+          "title": "M1 Introduction, Resources, To-Dos (insert video)",
+          "file": "canvas/pages/module-01/01-m1-introduction-resources-todos.html",
+          "source": "Current Canvas context_module_item_33436285",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m1-introduction-resources-to-dos-insert-video",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-01/02-m1-learning-materials",
+          "title": "M1 Learning Materials (insert lecture)",
+          "file": "canvas/pages/module-01/02-m1-learning-materials.html",
+          "source": "Current Canvas context_module_item_33436286",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m1-learning-materials-insert-lecture",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "module-02",
+      "title": "Module 2: The Profession in Practice",
+      "items": [
+        {
+          "id": "module-02/01-introduction-resources-todos",
+          "title": "M2 Introduction, Resources, To-Dos",
+          "file": "canvas/pages/module-02/01-introduction-resources-todos.html",
+          "source": "Current Canvas context_module_item_33532412",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m2-introduction-resources-to-dos",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-02/02-learning-materials",
+          "title": "M2 Learning Materials",
+          "file": "canvas/pages/module-02/02-learning-materials.html",
+          "source": "Current Canvas context_module_item_33532413",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m2-learning-materials",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "module-03",
+      "title": "Module 3: Notice Effective Teaching",
+      "items": [
+        {
+          "id": "module-03/01-introduction-resources-todos",
+          "title": "M3 Introduction, Resources, To-Dos",
+          "file": "canvas/pages/module-03/01-introduction-resources-todos.html",
+          "source": "M03/01_Introduction_Resources_ToDos.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m3-introduction-resources-to-dos",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-03/02-learning-materials",
+          "title": "M3 Learning Materials",
+          "file": "canvas/pages/module-03/02-learning-materials.html",
+          "source": "M03/02_Learning_Materials.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m3-learning-materials",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "module-04",
+      "title": "Module 4: Plan for Learning and Evidence",
+      "items": [
+        {
+          "id": "module-04/01-introduction-resources-todos",
+          "title": "M4 Introduction, Resources, To-Dos",
+          "file": "canvas/pages/module-04/01-introduction-resources-todos.html",
+          "source": "M04/01_Introduction_Resources_ToDos.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m4-introduction-resources-to-dos",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-04/02-learning-materials",
+          "title": "M4 Learning Materials",
+          "file": "canvas/pages/module-04/02-learning-materials.html",
+          "source": "M04/02_Learning_Materials.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m4-learning-materials",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "module-05",
+      "title": "Module 5: Sequence Learning Across a Year",
+      "items": [
+        {
+          "id": "module-05/01-introduction-resources-todos",
+          "title": "M5 Introduction, Resources, To-Dos",
+          "file": "canvas/pages/module-05/01-introduction-resources-todos.html",
+          "source": "M05/01_Introduction_Resources_ToDos.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m5-introduction-resources-to-dos",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-05/02-learning-materials",
+          "title": "M5 Learning Materials",
+          "file": "canvas/pages/module-05/02-learning-materials.html",
+          "source": "M05/02_Learning_Materials.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m5-learning-materials",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "module-06",
+      "title": "Module 6: Design for Access in Adapted and Inclusive PE",
+      "items": [
+        {
+          "id": "module-06/01-introduction-resources-todos",
+          "title": "M6 Introduction, Resources, To-Dos",
+          "file": "canvas/pages/module-06/01-introduction-resources-todos.html",
+          "source": "M06/01_Introduction_Resources_ToDos.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m6-introduction-resources-to-dos",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-06/02-learning-materials",
+          "title": "M6 Learning Materials",
+          "file": "canvas/pages/module-06/02-learning-materials.html",
+          "source": "M06/02_Learning_Materials.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m6-learning-materials",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "module-07",
+      "title": "Module 7: Foundations of Effective School Health Education",
+      "items": [
+        {
+          "id": "module-07/01-introduction-resources-todos",
+          "title": "M7 Introduction, Resources, To-Dos",
+          "file": "canvas/pages/module-07/01-introduction-resources-todos.html",
+          "source": "M07/01_Introduction_Resources_ToDos.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m7-introduction-resources-to-dos",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-07/02-learning-materials",
+          "title": "M7 Learning Materials",
+          "file": "canvas/pages/module-07/02-learning-materials.html",
+          "source": "M07/02_Learning_Materials.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m7-learning-materials",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "module-08",
+      "title": "Module 8: Turn Health Standards into Skill Practice",
+      "items": [
+        {
+          "id": "module-08/01-introduction-resources-todos",
+          "title": "M8 Introduction, Resources, To-Dos",
+          "file": "canvas/pages/module-08/01-introduction-resources-todos.html",
+          "source": "M08/01_Introduction_Resources_ToDos.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m8-introduction-resources-to-dos",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-08/02-learning-materials",
+          "title": "M8 Learning Materials",
+          "file": "canvas/pages/module-08/02-learning-materials.html",
+          "source": "M08/02_Learning_Materials.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m8-learning-materials",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "module-09",
+      "title": "Module 9: Build a Positive and Connected Learning Environment",
+      "items": [
+        {
+          "id": "module-09/01-introduction-resources-todos",
+          "title": "M9 Introduction, Resources, To-Dos",
+          "file": "canvas/pages/module-09/01-introduction-resources-todos.html",
+          "source": "M09/01_Introduction_Resources_ToDos.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m9-introduction-resources-to-dos",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-09/02-learning-materials",
+          "title": "M9 Learning Materials",
+          "file": "canvas/pages/module-09/02-learning-materials.html",
+          "source": "M09/02_Learning_Materials.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m9-learning-materials",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "module-10",
+      "title": "Module 10: Synthesize Your Practice and Plan Your Next Step",
+      "items": [
+        {
+          "id": "module-10/01-introduction-resources-todos",
+          "title": "M10 Introduction, Resources, To-Dos",
+          "file": "canvas/pages/module-10/01-introduction-resources-todos.html",
+          "source": "M10/01_Introduction_Resources_ToDos.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m10-introduction-resources-to-dos",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-10/02-learning-materials",
+          "title": "M10 Learning Materials",
+          "file": "canvas/pages/module-10/02-learning-materials.html",
+          "source": "M10/02_Learning_Materials.html",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883236/pages/m10-learning-materials",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    }
+  ],
+  "deployment": {
+    "courses_updated": true,
+    "course_id": "883236",
+    "existing_pages_updated": 25,
+    "new_pages_created_unpublished": 0,
+    "native_assignments_or_grading_modified": false,
+    "extra_practice_pages_created": false
+  },
+  "privacy": {
+    "native_assessment_source": "Retained privately; existing native Canvas tools unchanged.",
+    "instructor_materials": "Excluded from public additions."
+  }
+}

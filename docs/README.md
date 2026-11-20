@@ -1,14 +1,5 @@
-# PEPROF-166 instructor-review package
+# PEPROF 166 course review
 
-Open `index.html` locally or publish this folder using GitHub Pages.
+The existing index.html remains the review studio. Its local review-record behavior is unchanged. Existing preview and interactive paths remain available. The current manifest includes the canonical pages applied to the development course, plus preserved native-assessment review pages and hosted practice where already present.
 
-- `review-pages/`: review copies of available HTML; do not assume every course page is included.
-- `interactives/`: available restyled interactive source copies. These are NOT tested SCORM replacements.
-- `original-repository/`: untouched source ZIP contents.
-- `audit-summary.json`: inventory and review limitations.
-
-## Deployment
-Upload the contents of this folder to a **separate branch or a new review folder** in the existing repository, not over the working live course. Use GitHub Pages from root or `/docs` after arranging the files. Do not expose student records, unpublished restricted materials, or confidential instructor comments publicly.
-
-## Safety
-The dashboard saves reviews in the browser only. It does not synchronize approvals, update Canvas, or authenticate reviewers. Download review backups. Canvas pages need manual placement; SCORM requires package and sandbox testing.
+This public site contains course page previews. It does not authenticate approvals, synchronize review notes, collect submissions or record Canvas grades. Original versions remain in Git history and the instructor's private archive. Instructor-only quiz keys, native assessment source and Canvas backups are not added to this site.

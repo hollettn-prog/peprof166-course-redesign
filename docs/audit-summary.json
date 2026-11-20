@@ -1,14 +1,16 @@
 {
-  "course": "PEPROF-166",
-  "pages": 50,
-  "review_pages": 50,
-  "interactives": 0,
-  "placeholder_pages": [],
-  "not_verified": [
-    "Canvas deployment",
-    "SCORM runtime and grade reporting",
-    "external links",
-    "instructor approval",
-    "missing source pages"
-  ]
+  "course": "PEPROF 166",
+  "canonical_pages": 25,
+  "review_entries": 52,
+  "canvas_development_page_updates": "Applied; existing page titles and publication states preserved.",
+  "native_assessments": "Unchanged; not recreated by page-only export.",
+  "instructor_only_materials": "Not included in public additions.",
+  "remaining_review": [
+    "Media and captions/transcripts",
+    "Instructor/syllabus fields",
+    "Faculty assessment reconciliation",
+    "Canvas accessibility review",
+    "SCORM grade reporting"
+  ],
+  "existing_urls_preserved": true
 }

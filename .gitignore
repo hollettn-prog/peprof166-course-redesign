@@ -1,0 +1,15 @@
+
+# Private instructor sources and local Canvas evidence
+instructor/
+private/
+private-preservation/
+source-snapshots/
+.env
+.env.*
+!.env.example
+.clasprc.json
+__pycache__/
+*.pyc
+node_modules/
+dist/
+deployment/
