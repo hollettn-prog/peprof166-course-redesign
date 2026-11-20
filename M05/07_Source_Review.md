@@ -1,0 +1,11 @@
+# Module 5: Source reconciliation and publication gate
+
+**Exported title:** Sequence Learning Across a Year.
+
+**Exported introduction excerpt (for comparison):** M5 Introduction, Resources, To-Dos Sequence Learning Across a Year Build a purposeful progression that helps students develop competence, confidence, and independence over time. A strong physical education program is more than a collection of enjoyable activities. In this module, you will consider how skills, concepts, and experiences connect across units and grade levels to create a coherent journey toward lifelong movement. Introduction (~{ number } minutes) {INSERT INTRODUCTION VIDEO} {Transcript} 🎯 Objectives By the end of this lesson, you should be able to do the following: Describe major historical influences on PE. Explain the educational value of PE. Identify current national standards. Learning Resources Mini Lecture Watch the M1 Mini-Lecture: {Title} Interactive Learning Complete the Module 1 reading and question checks in the interactive lesson. Suggested Resources Explore the {insert link} website. ✅ To-Dos 1. Complete the {insert assignment} . ➡️ Your Next Stop {insert small reminder} Next: { Insert next page } EXAMPLE Physical Education in the Elementary School Discover how elementary physical education builds skills, confidence, and lifelong movement. Elementary physical education is about much more than keeping children active- it is where they begin learning how to move, cooperate, take risks, and see themselves as capable. The experiences we create can shape a
+
+**Source status:** Introduction exists in `wiki_content/m5-introduction-resources-to-dos.html`; learning-materials and assignment pages may contain unfinished template placeholders. This package supplies proposed freshman-friendly instructional drafts, not verified replacements for original assignments.
+
+**Before publication:** Confirm module title, actual learning outcomes, reading/media links, existing assignment/discussion type, due dates, points, rubric, quiz settings, and video. Preserve existing submissions and course settings. Check whether Module 5 is in the intended active sequence; the export includes unpublished redesign material.
+
+**Design:** UW–Whitewater Digital Learning Design 2.0 purple gradient; no gold. If Canvas strips gradient, use solid #4F2D7F. Test after pasting.
