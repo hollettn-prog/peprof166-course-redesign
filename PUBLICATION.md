@@ -1,9 +1,13 @@
 # Public and private source boundaries
 
-This repository contains public tools or student-facing course page source. Do not add instructor answer keys, Canvas backups, source snapshots, student records, access tokens or private native assessment exports.
+This repository contains public tools and student-facing course page source. Instructor answer keys, Canvas backups, source snapshots, student records, access tokens and private native assessment exports belong in approved private storage.
 
-Exact pre-update originals and Git history bundles are retained in the instructor's private local preservation archive. No repository was renamed or deleted. Existing Pages branch/folder settings and working URLs remain unchanged. The Canvas Course Auditor stays separate.
+The ten instructor-only quiz-key paths and their content were removed from the reachable public branch history on November 20, 2026. Exact pre-cleanup originals and complete Git history bundles are retained privately. Student-facing pages, interactives and export scripts were preserved. Repository and GitHub Pages names, URLs and publishing settings remain unchanged.
 
-PEPROF instructor-only quiz-key files already tracked in the public repository were replaced in the current tree with notices; their exact contents are preserved privately. Earlier public commits still contain the pre-existing copies. This update does not rewrite history or claim those earlier copies are confidential.
+GitHub-managed cached views and copies outside the repository are separate from branch history cleanup. Do not assume old copies held by GitHub or other clones have been erased.
 
-Public code for formative client-side practice contains its own feedback logic by design. It is not a private graded quiz bank and must not be treated as secure assessment delivery.
+## Continue safely after the history cleanup
+
+Use a fresh clone of this repository before making further changes. Do not merge, pull-and-merge, or force-push a clone from before the cleanup, because that can restore the removed keys. Preserve any uncommitted local work privately and apply only reviewed, key-free file changes onto the fresh clone.
+
+The ignored *_INSTRUCTOR.md paths are private source. Public client-side practice includes its own formative feedback logic and is not a secure graded quiz bank. The Canvas Course Auditor remains separate.
